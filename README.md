@@ -6,6 +6,7 @@ If you plan to develop a package, check the [template repository for a Python pa
 ## Usage
 
 Click "Use this template" at the top of this page to create a new repository with the same folder structure.
+Hier moet ik oefenen of het me lukt om deze file aan te passen
 
 ## Project Structure
 
